@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Mothership.unity
+    guid: 09dec9ba7da33e346be3db7b775a0787
+  - enabled: 1
+    path: Assets/_Scenes/Death scene.unity
+    guid: 7bfe2c648169ddc44aef38b9784b4fab
+  - enabled: 1
+    path: Assets/_Scenes/Dungeon 1.unity
+    guid: bce0aa9c8c88259489cfd793551f78b1
+  - enabled: 1
+    path: Assets/_Scenes/Dungeon 2.unity
+    guid: ab99539a85bdbae4b941b5e1c8ca2144
+  - enabled: 1
+    path: Assets/_Scenes/Dungeon 3.unity
+    guid: b809b52105645d143b753fde183dae57
+  - enabled: 1
+    path: Assets/_Scenes/Dungeon 4.unity
+    guid: fc2b59541c3c2a649bc142c10dfcba16
+  m_configObjects: {}
